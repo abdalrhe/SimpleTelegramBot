@@ -105,12 +105,12 @@ public class main extends TelegramLongPollingBot {
     @Override
     public String getBotUsername() {
         // اسم المستخدم الذي تختاره للبوت
-        return "MR_cisco_robot";
+        return "YOUR_BOT_USERNAME";
     }
 
     @Override
     public String getBotToken() {
         // توكن البوت الذي تحصل عليه من BotFather في تلغرام
-        return "5007391185:AAEWVBnieW5jdtT8aidtmQPJ0S6lLY0UwP0";
+        return "YOUR_BOT_TOKEN";
     }
 }
